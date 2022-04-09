@@ -1,0 +1,260 @@
+[
+    {
+        "number":   1,
+        "name":     "Dire, Dire Docks (OST Version)",
+        "id":       2599
+    },
+    {
+        "number":   2,
+        "name":     "Koopa's Road (OST Version)",
+        "id":       33553
+    },
+    {
+        "number":   3,
+        "name":     "Slider (OST Version)",
+        "id":       3340
+    },
+    {
+        "number":   4,
+        "name":     "Bob-Omb Battlefield",
+        "id":       10429
+    },
+    {
+        "number":   5,
+        "name":     "X-Naut Fortress",
+        "id":       503
+    },
+    {
+        "number":   6,
+        "name":     "Astral Observatory",
+        "id":       22831
+    },
+    {
+        "number":   7,
+        "name":     "Boss Battle",
+        "id":       10773
+    },
+    {
+        "number":   8,
+        "name":     "Clock Town, First Day",
+        "id":       22756
+    },
+    {
+        "number":   9,
+        "name":     "Deku Palace",
+        "id":       9286
+    },
+    {
+        "number":   10,
+        "name":     "Great Bay Temple",
+        "id":       2194
+    },
+    {
+        "number":   11,
+        "name":     "Ikana Castle",
+        "id":       8276
+    },
+    {
+        "number":   12,
+        "name":     "Milk Bar",
+        "id":       3042
+    },
+    {
+        "number":   13,
+        "name":     "Stone Tower Temple",
+        "id":       18594
+    },
+    {
+        "number":   14,
+        "name":     "Termina Field",
+        "id":       22828
+    },{
+        "number":   15,
+        "name":     "Aquatic Ambiance",
+        "id":       2645
+    },
+    {
+        "number":   16,
+        "name":     "Funky's Fugue",
+        "id":       2644
+    },{
+        "number":   17,
+        "name":     "Donkey Kong Country (SNES): Theme",
+        "id":       2651
+    },
+    {
+        "number":   18,
+        "name":     "Donkey Kong Country 2: Disco Train",
+        "id":       2756
+    },
+    {
+        "number":   19,
+        "name":     "Forest Interlude",
+        "id":       2757 
+    },
+    {
+        "number":   20,
+        "name":     "Jib Jig (without SFX)",
+        "id":       2707
+    },
+    {
+        "number":   21,
+        "name":     "Krook's March",
+        "id":       2754
+    },
+    {
+        "number":   22,
+        "name":     "Mining Melancholy",
+        "id":       2712
+    },
+    {
+        "number":   23,
+        "name":     "Cascade Capers",
+        "id":       34711
+    },
+    {
+        "number":   24,
+        "name":     "Cavern Caprice",
+        "id":       2718
+    },
+    {
+        "number":   25,
+        "name":     "Hot Pursuit",
+        "id":       4949
+    },
+    {
+        "number":   26,
+        "name":     "Northern Kremisphere",
+        "id":       2665
+    },
+    {
+        "number":   27,
+        "name":     "Nuts and Bolts",
+        "id":       2717
+    },
+    {
+        "number":   28,
+        "name":     "Rockface Rumble",
+        "id":       2409
+    },
+    {
+        "number":   29,
+        "name":     "Stilt Village",
+        "id":       2672
+    },
+    {
+        "number":   30,
+        "name":     "Sub-Map Shuffle",
+        "id":       2663
+    },
+    {
+        "number":   31,
+        "name":     "Treetop Tumble",
+        "id":       4948
+    },
+    {
+        "number":   32,
+        "name":     "Korok Forest - Day",
+        "id":       85301
+    },
+    {
+        "number":   33,
+        "name":     "Gerudo Town - Day",
+        "id":       85297
+    },
+    {
+        "number":   34,
+        "name":     "Hateno Village - Day",
+        "id":       85322
+    },
+    {
+        "number":   35,
+        "name":     "Tarrey Town - Married",
+        "id":       85329
+    },
+    {
+        "number":   36,
+        "name":     "Electrodome",
+        "id":       1920
+    },
+    {
+        "number":   37,
+        "name":     "Shy Guy Falls",
+        "id":       45704
+    },
+    {
+        "number":   38,
+        "name":     "SNES Rainbow Road (Final Lap)",
+        "id":       50911
+    },
+    {
+        "number":   39,
+        "name":     "Dolphin Shoals (Above Water)",
+        "id":       48876
+    },
+    {
+        "number":   40,
+        "name":     "3DS Neo Bowser City",
+        "id":       57025
+    },
+    {
+        "number":   41,
+        "name":     "3DS Music Park",
+        "id":       45711
+    },
+    {
+        "number":   42,
+        "name":     "Rainbow Road",
+        "id":       35569
+    },
+    {
+        "number":   43,
+        "name":     "3 Raceways and Wario Stadium",
+        "id":       3787
+    },
+    {
+        "number":   44,
+        "name":     "Choco Mountain & Battle Arenas",
+        "id":       2603
+    },
+    {
+        "number":   45,
+        "name":     "Bowser's Castle: Main Courtyard",
+        "id":       88785
+    },
+    {
+        "number":   46,
+        "name":     "Fossil Falls",
+        "id":       87779
+    },
+    {
+        "number":   47,
+        "name":     "Steam Gardens",
+        "id":       87783
+    },
+    {
+        "number":   48,
+        "name":     "Inside the Castle Walls (OST Version)",
+        "id":       38314
+    },
+    {
+        "number":   49,
+        "name":     "Piranha Plant's Lullaby (OST Version)",
+        "id":       38324
+    },
+    {
+        "number":   50,
+        "name":     "Metallic Mario (OST Version)",
+        "id":       38321
+    },
+    {
+        "number":   51,
+        "name":     "Cave Dungeon (OST Version)",
+        "id":       21561
+    },
+    {
+        "number":   52,
+        "name":     "Lethal Lava Land (OST Version)",
+        "id":       2600
+    }
+]

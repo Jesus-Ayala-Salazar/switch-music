@@ -1,0 +1,262 @@
+[
+    {
+        "number":   1,
+        "title":    "Title Theme - Animal Crossing: Wild World",
+        "nus3bank": "n01_dnm_title.nus3audio"
+    },
+    {
+        "number":   2,
+        "title":    "Go K.K. Rider!",
+        "nus3bank": "n02_dnm_yuke_kekerider.nus3audio"
+    },
+    {
+        "number":   3,
+        "title":    "2:00 a.m. - Animal Crossing: Wild World",
+        "nus3bank": "n03_dnm_200am.nus3audio"
+    },
+    {
+        "number":   4,
+        "title":    "The Roost - Animal Crossing: Wild World",
+        "nus3bank": "n05_oid_junkissa_hatonosu.nus3audio"
+    },
+    {
+        "number":   5,
+        "title":    "Town Hall and Tom Nook's Store - Animal Crossing: Wild World",
+        "nus3bank": "n06_oid_yakubatotanukichi.nus3audio"
+    },
+    {
+        "number":   6,
+        "title":    "K.K. Cruisin'",
+        "nus3bank": "n07_dnm_kk_urban.nus3audio"
+    },
+    {
+        "number":   7,
+        "title":    "K.K. Western",
+        "nus3bank": "n08_dnm_kk_western.nus3audio"
+    },
+    {
+        "number":   8,
+        "title":    "K.K. Gumbo",
+        "nus3bank": "n09_dnm_kk_neworleans.nus3audio"
+    },
+    {
+        "number":   9,
+        "title":    "Rockin' K.K.",
+        "nus3bank": "n10_dnm_kk_rocknroll.nus3audio"
+    },
+    {
+        "number":   10,
+        "title":    "DJ K.K.",
+        "nus3bank": "n11_dnm_kk_eurobeat.nus3audio"
+    },
+    {
+        "number":   11,
+        "title":    "K.K. Condor",
+        "nus3bank": "n12_dnm_kk_perunouta.nus3audio"
+    },
+    {
+        "number":   12,
+        "title":    "Tortimer Island Medley",
+        "nus3bank": "n13_tbd_kotobukiland_medley.nus3audio"
+    },
+    {
+        "number":   13,
+        "title":    "Kapp'n's Song",
+        "nus3bank": "n14_tbd_kappeinouta.nus3audio"
+    },
+    {
+        "number":   14,
+        "title":    "Plaza / Title Theme (Animal Crossing: City Folk / Animal",
+        "nus3bank": "n15_mhi_town_main.nus3audio"
+    },
+    {
+        "number":   15,
+        "title":    "Outdoors at 7 p.m. (Sunny) / Main Street - Animal",
+        "nus3bank": "n16_tbd_feild19ji_hare.nus3audio"
+    },
+    {
+        "number":   16,
+        "title":    "Tour - Animal Crossing: New Leaf",
+        "nus3bank": "n17_tbd_tour.nus3audio"
+    },
+    {
+        "number":   17,
+        "title":    "Bubblegum K.K.",
+        "nus3bank": "n18_tbd_kekeidol.nus3audio"
+    },
+    {
+        "number":   18,
+        "title":    "Title Theme - Animal Crossing: Happy Home Designer",
+        "nus3bank": "n19_hhd_title.nus3audio"
+    },
+    {
+        "number":   19,
+        "title":    "Title Theme - Animal Crossing",
+        "nus3bank": "n20_dnm_title.nus3audio"
+    },
+    {
+        "number":   20,
+        "title":    "Title Theme - Animal Crossing: Wild World (New Remix)",
+        "nus3bank": "n21_dmp_title.nus3audio"
+    },
+    {
+        "number":   21,
+        "title":    "House Preview",
+        "nus3bank": "n24_hhd_kanseidemo.nus3audio"
+    },
+    {
+        "number":   22,
+        "title":    "Main Theme - Pokémon Red & Blue (Brawl)",
+        "nus3bank": "h01_pm_maintheme.nus3audio"
+    },
+    {
+        "number":   23,
+        "title":    "Pokémon Center - Pokémon Red / Pokémon Blue",
+        "nus3bank": "h02_pm_pokemoncenter.nus3audio"
+    },
+    {
+        "number":   24,
+        "title":    "Road to Viridian City - Pokémon Red / Pokémon Blue",
+        "nus3bank": "h03_pm_tokiwahenomichi_nibicity.nus3audio"
+    },
+    {
+        "number":   25,
+        "title":    "Pokémon Gym / Evolution - Pokémon Red / Pokémon Blue",
+        "nus3bank": "h04_pm_pokemongym_shinka.nus3audio"
+    },
+    {
+        "number":   26,
+        "title":    "Battle! (Wild Pokémon) - Pokémon Ruby / Pokémon Sapphire",
+        "nus3bank": "h05_rs_sentou_yaseipokemon.nus3audio"
+    },
+    {
+        "number":   27,
+        "title":    "Victory Road - Pokémon Ruby / Pokémon Sapphire",
+        "nus3bank": "h06_rs_championroad.nus3audio"
+    },
+    {
+        "number":   28,
+        "title":    "Battle! (Wild Pokémon) - Pokémon Diamond / Pokémon Pearl",
+        "nus3bank": "h07_dp_sentou_yaseipokemon.nus3audio"
+    },
+    {
+        "number":   29,
+        "title":    "Battle! (Dialga/Palkia) / Spear Pillar",
+        "nus3bank": "h08_dp_dialgapalkia_yarinohashira.nus3audio"
+    },
+    {
+        "number":   30,
+        "title":    "Battle! (Team Galactic)",
+        "nus3bank": "h09_dp_gingadan.nus3audio"
+    },
+    {
+        "number":   31,
+        "title":    "Route 209 - Pokémon Diamond / Pokémon Pearl",
+        "nus3bank": "h10_dp_209bandouro.nus3audio"
+    },
+    {
+        "number":   32,
+        "title":    "N's Castle",
+        "nus3bank": "h11_bw_n_medley.nus3audio"
+    },
+    {
+        "number":   33,
+        "title":    "Battle! (Reshiram / Zekrom)",
+        "nus3bank": "h12_bw_sentou_zekrom_reshiram.nus3audio"
+    },
+    {
+        "number":   34,
+        "title":    "Battle! (Trainer Battle) - Pokémon X / Pokémon Y",
+        "nus3bank": "h13_xy_sentou_trainer.nus3audio"
+    },
+    {
+        "number":   35,
+        "title":    "Lumiose City",
+        "nus3bank": "h14_xy_miarecity.nus3audio"
+    },
+    {
+        "number":   36,
+        "title":    "Battle! (Champion) / Champion Cynthia",
+        "nus3bank": "h16_dp_sentou_champion.nus3audio"
+    },
+    {
+        "number":   37,
+        "title":    "Route 10 - Pokémon Black / Pokémon White",
+        "nus3bank": "h17_bw_10bandouro.nus3audio"
+    },
+    {
+        "number":   38,
+        "title":    "Route 23 -  Pokémon Black 2 / Pokémon White 2",
+        "nus3bank": "h18_b2w2_23bandouro.nus3audio"
+    },
+    {
+        "number":   39,
+        "title":    "Battle! (Team Flare)",
+        "nus3bank": "h19_xy_vs_flare.nus3audio"
+    },
+    {
+        "number":   40,
+        "title":    "Battle! (Wild Pokémon) - Pokémon X / Pokémon Y",
+        "nus3bank": "h20_xy_sentou_yaseipokemon.nus3audio"
+    },
+    {
+        "number":   41,
+        "title":    "Victory Road - Pokémon X / Pokémon Y",
+        "nus3bank": "h21_xy_championroad.nus3audio"
+    },
+    {
+        "number":   42,
+        "title":    "Battle! (Champion) - Pokémon X / Pokémon Y",
+        "nus3bank": "h22_xy_sentou_champion.nus3audio"
+    },
+    {
+        "number":   43,
+        "title":    "Battle! (Wild Pokémon) - Pokémon Sun / Pokémon Moon",
+        "nus3bank": "h23_sm_sentou_yaseipokemon.nus3audio"
+    },
+    {
+        "number":   44,
+        "title":    "Battle! (Steven)",
+        "nus3bank": "h24_oras_kessen_daigo.nus3audio"
+    },
+    {
+        "number":   45,
+        "title":    "Battle! (Island Kahuna)",
+        "nus3bank": "h25_sm_sentou_shimakingshimaqueen.nus3audio"
+    },
+    {
+        "number":   46,
+        "title":    "Battle! (Gladion)",
+        "nus3bank": "h26_sm_sentou_gladion.nus3audio"
+    },
+    {
+        "number":   47,
+        "title":    "Battle! (Elite Four) / Battle! (Solgaleo / Lunala)",
+        "nus3bank": "h27_sm_sentou_shitennou_solgaleo_lunala.nus3audio"
+    },
+    {
+        "number":   48,
+        "title":    "Battle! (Trainer) - Pokémon Sun / Pokémon Moon",
+        "nus3bank": "h28_sm_sentou_trainer.nus3audio"
+    },
+    {
+        "number":   49,
+        "title":    "Battle! (Lorekeeper Zinnia)",
+        "nus3bank": "h29_oras_sentou_higana.nus3audio"
+    },
+    {
+        "number":   50,
+        "title":    "The Battle at the Summit!",
+        "nus3bank": "h30_sm_choujoukessen.nus3audio"
+    },
+    {
+        "number":   51,
+        "title":    "Main Theme - Pokémon Red & Blue (64)",
+        "nus3bank": "t15_pm_yamabukicity.nus3audio"
+    },
+    {
+        "number":   52,
+        "title":    "Main Theme - Pokémon Red & Blue (Melee)",
+        "nus3bank": "w09_pm_pokemonstadium.nus3audio"
+    }
+]
